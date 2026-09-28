@@ -15,8 +15,8 @@ importers:
         specifier: ^2.4.4
         version: 2.4.4(@vueuse/core@14.4.0(vue@3.5.43))(vue@3.5.43)
       undocs:
-        specifier: npm:undocs-nightly@0.10.1-20260909-093809-9b3fed7
-        version: undocs-nightly@0.10.1-20260909-093809-9b3fed7(@oxc-project/types@0.151.0)(chokidar@5.0.0)(csstype@3.2.3)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(lightningcss@1.33.0)(rolldown@1.2.11)
+        specifier: npm:undocs-nightly@0.10.1-20260922-215730-10f5034
+        version: undocs-nightly@0.10.1-20260922-215730-10f5034(@oxc-project/types@0.151.0)(chokidar@5.0.0)(csstype@3.2.3)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(lightningcss@1.33.0)(rolldown@1.2.11)
 
 packages:
 
@@ -1060,8 +1060,8 @@ packages:
   ufo@1.6.4:
     resolution: {integrity: sha512-JFNbkD1Svwe0KvGi8GOeLcP4kAWQ609twvCdcHxq1oSL8svv39ZuSvajcD8B+5D0eL4+s1Is2D/O6KN3qcTeRA==}
 
-  undocs-nightly@0.10.1-20260909-093809-9b3fed7:
-    resolution: {integrity: sha512-GQWduSU8Je5OQ3taKZtO/4jLTF6X27qrIvDAVOr2Bgc6vb+mrC/m2x+MGZLufpopMAe/AC61dyHJBxenhQJzdg==}
+  undocs-nightly@0.10.1-20260922-215730-10f5034:
+    resolution: {integrity: sha512-eTXWYvWBJWyS27jeY6nvCY7UffJSLR8PchtW5IbsMc5I1v1HbH4fp1QeB5tU6COH8JAOXA6NlmRV0eL2tIqHPQ==}
     hasBin: true
 
   unenv@2.0.0-rc.24:
@@ -2039,7 +2039,7 @@ snapshots:
 
   ufo@1.6.4: {}
 
-  undocs-nightly@0.10.1-20260909-093809-9b3fed7(@oxc-project/types@0.151.0)(chokidar@5.0.0)(csstype@3.2.3)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(lightningcss@1.33.0)(rolldown@1.2.11):
+  undocs-nightly@0.10.1-20260922-215730-10f5034(@oxc-project/types@0.151.0)(chokidar@5.0.0)(csstype@3.2.3)(dotenv@17.4.2)(giget@3.3.1)(jiti@2.7.0)(lightningcss@1.33.0)(rolldown@1.2.11):
     dependencies:
       '@floating-ui/dom': 1.8.0
       '@fontsource-variable/geist': 5.3.0
